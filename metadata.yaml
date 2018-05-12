@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '32810'
     url: http://www.gutenberg.org/2009/agents/32810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27640#Ricordi-di-Londra
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2008-12-28'
 gutenberg_type: Text
